@@ -26,6 +26,6 @@ Him/His/He
 
 📫 How to reach me:
 - [Twitter](https://twitter.com/gmcodes20?s=20)
-- [Twitter](https://www.linkedin.com/in/godwin-martins-990165204)
+- [LinkedIn](https://www.linkedin.com/in/godwin-martins-990165204)
 
 💬 Ask me about anything and I will try my posible best to answer them
