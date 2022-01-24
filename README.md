@@ -29,3 +29,6 @@ Him/His/He
 - [LinkedIn](https://www.linkedin.com/in/godwin-martins-990165204)
 
 💬 Ask me about anything and I will try my posible best to answer them
+
+
+![](https://hit.yhype.me/github/profile?user_id=37496325)
