@@ -1,9 +1,10 @@
- Hi there 👋
-I'm **GODWIN MARTINS** a buddy Software Engineer/Web Developer
+<h1 align="center">Hi 👋, I'm Godwin Martins</h1>
+<h3 align="center">A highly motivated software developer from Nigeria with the desire to develop world class sofware. Interested in opportunities that provide career growth and innovative solution preferment for company needs.</h3>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmcodes20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Martins' GitHub stats](https://github-readme-stats.vercel.app/api?username=gmcodes20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
