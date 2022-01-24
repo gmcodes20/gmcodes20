@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=gmcodes20)
+
 <h1 align="center">Hi 👋, I'm Godwin Martins</h1>
 <h3 align="center">A highly motivated software developer from Nigeria with the desire to develop world class sofware. Interested in opportunities that provide career growth and innovative solution preferment for company needs.</h3>
 
